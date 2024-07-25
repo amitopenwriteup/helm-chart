@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  nginx-demo:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-07-25T16:48:44.096514359Z"
+    description: My First Helm Chart
+    digest: c1a8a321d8db2145ba030541b38dc5102a0a22821da69b59b6386d2ed75c3e73
+    maintainers:
+    - email: amit@openwriteup.com
+      name: mychart
+    name: nginx-demo
+    type: application
+    urls:
+    - git@github.com:amitopenwriteup/helm-chart.git/helm-chart/nginx-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-25T16:48:44.09564556Z"
